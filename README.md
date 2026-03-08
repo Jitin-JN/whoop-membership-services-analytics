@@ -16,7 +16,7 @@ The analysis simulates the work of a **Business / Product Analyst within a Membe
 
 # Business Problem
 
-Subscription fitness platforms rely heavily on **member retention**. Poor support experiences—such as slow resolution times, repeated contacts or unresolved technical issues can negatively impact the overall member experience and increase churn.
+Subscription fitness platforms rely heavily on **member retention**. Poor support experiences such as slow resolution times, repeated contacts or unresolved technical issues can negatively impact the overall member experience and increase churn.
 
 This project investigates four key questions:
 
