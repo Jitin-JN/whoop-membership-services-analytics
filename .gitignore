@@ -14,7 +14,3 @@ Thumbs.db
 # Data
 data/raw/
 
-# Power BI temporary files
-*.pbi
-*.pbix.tmp
-
